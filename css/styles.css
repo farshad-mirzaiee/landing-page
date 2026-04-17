@@ -201,6 +201,7 @@ header {
 .cta-button button:hover {
     background-color: #E5E7EB;
     color: #1F2937;
+    border: 2px solid #1F2937;
 }
 
 footer {
